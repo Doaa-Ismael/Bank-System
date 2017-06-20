@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\bin\Release\Bank System new.exe.config
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\bin\Release\Bank System new.exe
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\bin\Release\Bank System new.pdb
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank System new.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank_System_new.Employee_form.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank_System_new.Form1.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank_System_new.Form3.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank_System_new.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank_System_new.test.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank System new.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank System new.exe
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Release\Bank System new.pdb

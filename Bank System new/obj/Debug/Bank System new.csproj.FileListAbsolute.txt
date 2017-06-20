@@ -1,0 +1,67 @@
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\bin\Debug\Bank System new.exe.config
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\bin\Debug\Bank System new.exe
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\bin\Debug\Bank System new.pdb
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\obj\Debug\Bank System new.csprojResolveAssemblyReference.cache
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form1.resources
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\obj\Debug\Bank_System_new.Properties.Resources.resources
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\obj\Debug\Bank System new.csproj.GenerateResource.Cache
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\obj\Debug\Bank System new.exe
+C:\Users\sameh isaac\Desktop\Bank System new\Bank System new\obj\Debug\Bank System new.pdb
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\bin\Debug\Bank System new.exe.config
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\obj\Debug\Bank System new.exe
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\obj\Debug\Bank System new.pdb
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\bin\Debug\Bank System new.exe
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\bin\Debug\Bank System new.pdb
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\obj\Debug\Bank System new.csprojResolveAssemblyReference.cache
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form1.resources
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form3.resources
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\obj\Debug\Bank_System_new.Properties.Resources.resources
+C:\Users\sameh isaac\Desktop\New folder\Bank System new\Bank System new\obj\Debug\Bank System new.csproj.GenerateResource.Cache
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.exe.config
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.exe
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.pdb
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.exe
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.pdb
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.csprojResolveAssemblyReference.cache
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form1.resources
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form3.resources
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Properties.Resources.resources
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.csproj.GenerateResource.Cache
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.test.resources
+E:\Download\math\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Employee_form.resources
+H:\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.exe.config
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.exe
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.pdb
+H:\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.exe
+H:\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.pdb
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.csprojResolveAssemblyReference.cache
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Employee_form.resources
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form1.resources
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form3.resources
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Properties.Resources.resources
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.test.resources
+H:\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.exe.config
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.exe
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.pdb
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Employee_form.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form1.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form3.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.test.resources
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.exe
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.pdb
+C:\Users\LENOVO\Desktop\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.csprojResolveAssemblyReference.cache
+D:\Projects\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.exe.config
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.exe
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.pdb
+D:\Projects\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.exe
+D:\Projects\Bank-System-new\Bank System new\Bank System new\bin\Debug\Bank System new.pdb
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.csprojResolveAssemblyReference.cache
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Employee_form.resources
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form1.resources
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Form3.resources
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.Properties.Resources.resources
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank_System_new.test.resources
+D:\Projects\Bank-System-new\Bank System new\Bank System new\obj\Debug\Bank System new.csproj.GenerateResource.Cache
